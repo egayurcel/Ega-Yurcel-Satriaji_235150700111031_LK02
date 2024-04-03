@@ -1,3 +1,6 @@
+//Ega Yurcel Satriaji
+//235150700111031
+
 package penugasan;
 
 import java.util.Scanner;
